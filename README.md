@@ -1,5 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
 
 ### <div align="center">I'm Amit, a full-time Competitive coder | Android developer 👨‍💻 working since 2021🚀</div>  
   
@@ -20,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
@@ -33,22 +31,13 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/amitrai1603" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -71,17 +60,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=raikwaramit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=raikwaramit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
-## Recent Blog Posts  
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikwaramit&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<br/>  
-
-  
+</td></tr></table>  
+<br/>    
 
 <br/>  
 
@@ -94,6 +82,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
