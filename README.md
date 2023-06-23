@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Amit, a full-time Competitive coder | Android developer 👨‍💻 working since 2021🚀</div>  
+### <div align="center">I'm Amit, a full-time Android developer | Competitive coder 👨‍💻 working since 2021🚀</div>  
   
 
 - 🔭 I’m currently working on [Chat App]()  
